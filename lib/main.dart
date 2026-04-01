@@ -1,6 +1,6 @@
 // main.dart
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/models/note_database.dart';
+import 'package:flutter_application_2/models/note_database.dart'; //change 'flutter_application_2' to your project name
 import 'package:flutter_application_2/pages/notes_page.dart';
 import 'package:provider/provider.dart';
 
