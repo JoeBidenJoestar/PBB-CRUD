@@ -1,5 +1,5 @@
 // models/note_database.dart
-import 'package:flutter_application_2/models/note.dart';
+import 'package:flutter_application_2/models/note.dart'; //change 'flutter_application_2' to your project name
 import 'package:flutter/cupertino.dart';
 import 'package:isar/isar.dart';
 import 'package:path_provider/path_provider.dart';
